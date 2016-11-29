@@ -3,5 +3,6 @@
 str1 = 'bob'
 str2 = 'bill'
 str3 = 'drew'
+str4 = raw_input('Enter number4: ')
 
-print '{:>30} {:>30} {:>30}'.format(str1, str2, str3)
+print '{:>30} {:>30} {:>30} {:>30}'.format(str1, str2, str3, str4)
